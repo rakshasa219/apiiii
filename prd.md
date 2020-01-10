@@ -327,3 +327,6 @@ if __name__ == '__main__':
 - **[原型发布github页](https://github.com/rakshasa219/apiiii)**
 - **三家平台语音api基于同一个输入源测试结果页：[点击查看](http://nfunm171043007.gitee.io/appdesignprd/)**
 - **语音文件：[“语音输入.wav”](https://gitee.com/NFUNM171043007/apiiii/raw/master/%E8%AF%AD%E9%9F%B3%E8%BE%93%E5%85%A5.wav)**
+
+## 加分项
+- 使用了三种不同的api进行输入输出
